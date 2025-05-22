@@ -14,17 +14,19 @@
     Đây là hệ thống phần mềm giúp quản lý thông tin thú cưng, chủ nuôi, hồ sơ khám bệnh và các hoạt động liên quan tại trạm thú y. Hệ thống hỗ trợ nhân viên thú y theo dõi lịch sử khám chữa bệnh, tiêm ngừa và tình trạng sức khỏe của thú cưng một cách dễ dàng và hiệu quả.
 
 # Tính năng chính:
-    1. Quản lý thông tin thú cưng (tên, loài, giống, tuổi, giới tính, tình trạng sức khỏe,...)
-
-    2. Quản lý thông tin chủ nuôi (họ tên, số điện thoại, địa chỉ,...)
-
-    3. Quản lý lịch sử khám bệnh và đơn thuốc
- 
-    4. Quản lý lịch hẹn khám bệnh
-
-    5. Quản lý danh sách tiêm ngừa, tẩy giun,...
-
-    6. Hỗ trợ tìm kiếm, lọc dữ liệu theo nhiều tiêu chí
+    -	Giao diện Java Spring Boot.
+-	Có chức năng quản lý Thú cưng
++  Thêm, sửa, xóa Thú cưng (pets)
++ Liệt kê thông tin về Thú cưng, có thể lọc ra các Thú cưng theo tên, loài, giống, tuổi, tình trạng sức khỏe…
+-	Có chức năng quản lý Chủ nuôi (owner):
++  Thêm, sửa, xóa Chủ nuôi (owner)
++ Có chức năng gán Thú cưng (pets) cho Chủ nuôi (owner).
+-	Có chức năng quản lý Hồ sơ (record):
++ Thêm, sửa, xóa Hồ sơ (record)
++ Liệt kê thông tin về Hồ sơ, có thể lọc Hồ sơ theo ngày khám, bác sĩ phụ trách
+-	Dữ liệu được lưu trữ xuống file nhị phân.
++ Cần tạo các lớp liên quan đến đối tượng Thú cưng (pets), đối tượng Chủ nuôi (owner), đối tượng Hồ sơ (record) để đọc, ghi xu ống 1 hay nhiều file.
+-	Khi làm việc với dữ liệu trong bộ nhớ, dữ liệu cần được lưu trữ dưới dạng các Collection tùy chọn như ArrayList, LinkedList, Map,….
 
     7. Giao diện thân thiện, dễ sử dụng
 # Công nghệ sử dụng:
