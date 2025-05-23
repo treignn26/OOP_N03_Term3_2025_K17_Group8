@@ -11,7 +11,10 @@
 	4.Nguyễn Lệ Thu
 
 # Giới thiệu:
-    Đây là hệ thống phần mềm giúp quản lý thông tin thú cưng, chủ nuôi, hồ sơ khám bệnh và các hoạt động liên quan tại trạm thú y. Hệ thống hỗ trợ nhân viên thú y theo dõi lịch sử khám chữa bệnh, tiêm ngừa và tình trạng sức khỏe của thú cưng một cách dễ dàng và hiệu quả.
+```
+    Đây là hệ thống phần mềm giúp quản lý thông tin thú cưng, chủ nuôi, hồ sơ khám bệnh và các hoạt động liên quan tại trạm thú y. 
+    Hệ thống hỗ trợ nhân viên thú y theo dõi lịch sử khám chữa bệnh, tiêm ngừa và tình trạng sức khỏe của thú cưng một cách dễ dàng và hiệu quả.
+```
 
 # Tính năng chính:
 
